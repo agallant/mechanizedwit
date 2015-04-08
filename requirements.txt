@@ -1,2 +1,2 @@
+chatterbot==0.1.1
 hackernews-python==0.3.2
-python-graph-core==1.8.2
